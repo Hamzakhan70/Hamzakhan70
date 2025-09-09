@@ -1,6 +1,6 @@
 <!-- Hi there, welcome to my GitHub! 👋 -->
 
-<h1 align="center">Hamza Arif Khan</h1>
+<h1 align="center" color="yellow-300">Hamza Arif Khan</h1>
 <p align="center">
   <b>MERN Stack Developer • Fintech & Startup Enthusiast</b>
 </p>
@@ -45,7 +45,7 @@ Passionate full-stack developer focused on building responsive, scalable, and us
 
 - [LinkedIn](https://www.linkedin.com/in/hamza-arif-khan-87064319b)
 - [Portfolio](https://port-folio-next-js-ecru.vercel.app/)
-- [Fiverr](https://www.fiverr.com/users/khan70pk/manage_gigs)
+- [Fiverr](https://www.fiverr.com/s/GzW60Kq)
 - [Upwork](https://www.upwork.com/freelancers/~015348c4af2c471ff4)
 
 ---
